@@ -54,6 +54,5 @@ This project is open-source and licensed under the MIT License.
 ![Landmarks during Training](assets_readme/1.JPG)
 ![Training Results](assets_readme/2.JPG)
 ![Training Results](assets_readme/3.JPG)
-![Training Results](assets_readme/3.JPG)
-![Training Results](assets_readme/4.PNG)
+![Training Results](assets_readme/4.png)
 
